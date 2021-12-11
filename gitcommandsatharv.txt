@@ -1,0 +1,45 @@
+# Git Clone
+git clone https://<token>@github.com/owner/repo.git
+
+for example 
+git clone https://<token>@github.com/username/repository.git
+
+Git Clone
+git clone https://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@github.com/Atharv1297/CRUDinCsharp.git
+
+
+
+# Git Config
+git config --global user.email " "
+git config --global user.name "Your Name"   
+
+
+
+# Git add
+ git add .
+ git add <filename>
+
+
+
+# Git Push
+1) Make a folder/enter the folder
+2) git.init
+3) follow Git Clone/If cloned then enter the clone folder
+4) Copy paste Files in Clone Folder 
+5) follow Git add
+6) git commit -m "message"
+7) git push origin 
+
+
+
+# Git Pull
+git pull
+It is used to pull the code from the origin branch
+
+
+
+# Git Checkout
+git checkout <branchname>
+it is used to change branch
+
+
