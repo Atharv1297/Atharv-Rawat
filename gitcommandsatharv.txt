@@ -5,9 +5,9 @@ for example
 git clone https://<token>@github.com/username/repository.git
 
 Git Clone
-git clone https://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@github.com/Atharv1297/CRUDinCsharp.git
+git clone https://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@github.com/Atharv1297/CRUDinCsharp.git
 
-
+token=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
 
 # Git Config
 git config --global user.email " "
